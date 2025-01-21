@@ -9,7 +9,7 @@
 
 <div style="">
   <div align="left">
-    <h3 align="left">DevOps Stack</h3>
+    <h3 align="left">My DevOps Stack</h3>
     <div align="left">
       <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
       <img width="12" />
@@ -25,7 +25,7 @@
     </div>
   </div>
   <div align="right">
-    <h3 align="left">Code Stack</h3>
+    <h3 align="left">My Code Stack</h3>
     <div align="left">
       <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
       <img width="12" />
