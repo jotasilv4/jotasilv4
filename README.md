@@ -3,13 +3,56 @@
 
 ###
 
-This is Jackson! I currently work as a DevOps Engineer at Senai Alagoas. My technology stack includes Linux, Docker, Kubernetes, Prometheus, Grafana, Traefik, CephFS, Terraform, Ansible and more.
+<p align="left">This is Jackson! I currently work as a DevOps Engineer at Senai Alagoas. My technology stack includes Linux, Docker, Kubernetes, Prometheus, Grafana, Traefik, CephFS, Terraform, Ansible and more.<br><br>What I love about DevOps is building and automating scalable infrastructures while exploring new tools and technologies 🛠️.<br><br>During my spare time, I enjoy setting up labs to test Kubernetes, experimenting with automation, and constantly breaking and fixing things in my homelab.</p>
 
-What I love about DevOps is building and automating scalable infrastructures while exploring new tools and technologies 🛠️.
+###
 
-During my spare time, I enjoy setting up labs to test Kubernetes, experimenting with automation, and constantly breaking and fixing things in my homelab.
+<div style="">
+  <div align="left">
+    <h4 align="left">DevOps Stack</h4>
+    <div align="left">
+      <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
+      <img width="12" />
+      <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+      <img width="12" />
+      <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+      <img width="12" />
+      <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
+      <img width="12" />
+      <img src="https://skillicons.dev/icons?i=grafana" height="40" alt="grafana logo"  />
+      <img width="12" />
+      <img src="https://skillicons.dev/icons?i=prometheus" height="40" alt="prometheus logo"  />
+    </div>
+  </div>
+  <div align="right">
+    <h4 align="left">Code Stack</h4>
+    <div align="left">
+      <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+      <img width="12" />
+      <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
+      <img width="12" />
+      <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
+      <img width="12" />
+      <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+    </div>
+  </div>
+</div>
 
-Feel free to connect with me: [**LinkedIn**](https://www.linkedin.com/in/jbsilv4/)
 
+
+###
+
+
+###
 ---
-<img src="https://github-readme-stats.vercel.app/api?username=jotasilv4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=true" height="190" alt="stats graph"  />
+<h4 align="left">Feel free to connect with me</h4>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/jbsilv4/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
