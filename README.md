@@ -5,11 +5,11 @@
 
 <p align="left">This is Jackson! I currently work as a DevOps Engineer at Senai Alagoas. My technology stack includes Linux, Docker, Kubernetes, Prometheus, Grafana, Traefik, CephFS, Terraform, Ansible and more.<br><br>What I love about DevOps is building and automating scalable infrastructures while exploring new tools and technologies 🛠️.<br><br>During my spare time, I enjoy setting up labs to test Kubernetes, experimenting with automation, and constantly breaking and fixing things in my homelab.</p>
 
-###
+##
 
 <div style="">
   <div align="left">
-    <h4 align="left">DevOps Stack</h4>
+    <h3 align="left">DevOps Stack</h3>
     <div align="left">
       <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
       <img width="12" />
@@ -25,7 +25,7 @@
     </div>
   </div>
   <div align="right">
-    <h4 align="left">Code Stack</h4>
+    <h3 align="left">Code Stack</h3>
     <div align="left">
       <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
       <img width="12" />
@@ -38,13 +38,8 @@
   </div>
 </div>
 
+##
 
-
-###
-
-
-###
----
 <h4 align="left">Feel free to connect with me</h4>
 
 ###
