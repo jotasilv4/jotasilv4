@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/1230256320649756854/1331112218007437343/git-banner.png?ex=67906e5b&is=678f1cdb&hm=48afc3edec1ad040b0c722a546581e827a8bb386ef66a797975d1e618c97bb37&" />
+<img src="https://cdn.discordapp.com/attachments/1230256320649756854/1331393951655268352/LinkedIn_cover_-_3.png?ex=679174be&is=6790233e&hm=c6584a9014e4960d65ace8a353aa3d6e045894ec92edba05f939ab08b972ba00&" />
 <h2 align="left">Hey there 👋</h2>
 
 ###
