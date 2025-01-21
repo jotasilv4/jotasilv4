@@ -1,3 +1,4 @@
+<img src="https://cdn.discordapp.com/attachments/1230256320649756854/1331112218007437343/git-banner.png?ex=67906e5b&is=678f1cdb&hm=48afc3edec1ad040b0c722a546581e827a8bb386ef66a797975d1e618c97bb37&" />
 <h2 align="left">Hey there 👋</h2>
 
 ###
